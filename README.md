@@ -1,5 +1,5 @@
 
-
+![dashboard](https://github.com/ReinaldoASilva/SuperMarket-Dash/assets/109931715/e237f826-ac44-449d-80b7-3a166d8758be)
 
 # SuperMarket-Dash
 
