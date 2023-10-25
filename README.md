@@ -1,0 +1,15 @@
+# SuperMarket-Dash
+
+## Bibliotecas
+
+- dash==2.7.0
+- dash-bootstrap-components==1.5.0
+- dash-bootstrap-templates==1.1.1
+- dash-core-components==2.0.0
+- dash-html-components==2.0.0
+- dash-table==5.0.0
+- gunicorn==20.1.0
+- numpy==1.20.0
+- pandas==1.3.0
+- plotly==5.5.0
+
