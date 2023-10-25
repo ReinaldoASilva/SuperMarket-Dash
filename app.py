@@ -10,7 +10,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import load_figure_template
-
+import gunicorn
 load_figure_template("minty")
 
 app = dash.Dash(external_stylesheets=[dbc.themes.MINTY])
