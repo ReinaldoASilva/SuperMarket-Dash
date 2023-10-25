@@ -1,4 +1,29 @@
+
+
+
 # SuperMarket-Dash
+
+O intuito desse projeto é a criação de um dashboard em python utilizando a biblioteca dash. Eu sei que o mercado tem exigido bastante sobre Tableau, Power BI entre outras ferramentas. Abaixo deixarei algumas vantagens em construir dashboards com a biblioteca Dash.
+
+- Totalmente Personalizável: Dash permite um controle total sobre a aparência e o funcionamento do seu dashboard. Você pode personalizar cada aspecto para se adequar às necessidades específicas do seu projeto.
+
+- Linguagem Python: Se você já está familiarizado com Python, Dash oferece uma vantagem significativa. Você pode usar suas habilidades de programação para criar dashboards interativos sem precisar aprender uma nova linguagem.
+
+- Integração com Bibliotecas Python: Dash é altamente compatível com outras bibliotecas Python, como Pandas, Plotly e NumPy, o que facilita a manipulação e visualização de dados.
+
+- Open Source: Dash é de código aberto, o que significa que você não precisa pagar licenças caras. É uma opção econômica para empresas e projetos menores.
+
+- Flexibilidade: Você pode hospedar seu aplicativo Dash em um servidor da sua escolha, permitindo maior flexibilidade na implantação.
+
+- Controle Local: Dash permite a criação de dashboards locais, o que é útil para manter o controle de seus dados e análises.
+
+- Escalabilidade: Com a crescente popularidade do Python, Dash tem uma comunidade ativa que continua aprimorando e expandindo suas funcionalidades.
+
+- Segurança: Dash oferece recursos para garantir que seus dados e dashboards sejam seguros, permitindo o controle do acesso aos usuários autorizados.
+
+- Suporte e Documentação: Dash possui uma comunidade sólida e uma abundância de recursos de aprendizado e documentação online.
+
+Embora Power BI e Tableau também tenham suas vantagens, Dash se destaca em termos de personalização, controle e uso da linguagem Python. A escolha entre essas ferramentas depende das necessidades específicas do projeto e da experiência da equipe.
 
 ## Bibliotecas
 
@@ -158,6 +183,9 @@ O que Este Código Faz:
 
           if __name__ == "__main__":
               app.run_server(debug=False)
+
+## Link Dashboard
+[Acessar o Dashboard](https://supermarket-dash-lajj.onrender.com/)
 
 
     
